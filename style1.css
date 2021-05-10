@@ -83,7 +83,7 @@ nav .fa {
 	display:none;	/*hide icon for larger screen*/
 	}
 		
-@media(max-width: 700px){
+@media(max-width: 768px){
 .text-box h1 {
 	font-size:20px;
 	text-align:center;
@@ -159,7 +159,7 @@ transition: 0.5s;
 	box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 	}
 	
-@media(max-width: 700px) {
+@media(max-width: 768px) {
 .row {
 	flex-direction:column;
 	
@@ -252,7 +252,7 @@ color:#333;
 	
 	}
 	
-	@media(max-width: 700px) {
+	@media(max-width: 768px) {
 .footer {
 	flex-direction:column;
 	
